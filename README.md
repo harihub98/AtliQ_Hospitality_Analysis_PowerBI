@@ -4,7 +4,7 @@ This Project is done as part of the codebasics Resume challenge.
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Link to [Live Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)
+Link to [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmRlNjZkMmEtZmQ5ZS00Y2UxLThmZTItMDc1NmEyMWI4ZjdlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Problem statement
