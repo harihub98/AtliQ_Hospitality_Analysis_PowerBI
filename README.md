@@ -1,6 +1,6 @@
 # AtliQ Hospitality Analysis - PowerBI
 
-As part of the codebasics september month resume challenge, I have worked on this analysis project.
+This Project is done as part of the codebasics Resume challenge.
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
